@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6d9d9eac-7e6e-4ed6-8b12-1c4b633706b5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../HW_Body_Mass_Index/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_Body_Mass_Index/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_Body_Mass_Index/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_Body_Mass_Index/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_Body_Mass_Index/src/BmiService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_bonus_calc_new/HW_bonus_calc_new.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_deposit_bonuses/HW_deposit_bonuses.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_miles_calc_modern/BonusMilesService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_miles_calc_modern/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2VIvprUiuEZhJXUgQGe1LZsj7Gw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "main",
+    "last_directory_selection": "C:/Users/Мама/Desktop/Work_QA/MonthCalculation/src/main/java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ru.netology.services" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MonthCalculationTest">
+    <configuration name="MonthCalculationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MonthCalculation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.services" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.services.MonthCalculationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MonthCalculationTest.testCalculate1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MonthCalculation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.services" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.services.MonthCalculationTest" />
+      <option name="METHOD_NAME" value="testCalculate1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MonthCalculationTest" />
+        <item itemvalue="JUnit.MonthCalculationTest.testCalculate1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d9d9eac-7e6e-4ed6-8b12-1c4b633706b5" name="Changes" comment="" />
+      <created>1694536596900</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694536596900</updated>
+    </task>
+    <servers />
+  </component>
+</project>
